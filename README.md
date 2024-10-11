@@ -1,8 +1,42 @@
-# React + Vite
+# Todo With Reducer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> a to do list with the ability to do, edit and delete
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![Logo](https://github.com/mahdihagollahi/TodoWithNext/blob/main/src/app/assets/Img/Logo.png)
+
+
+
+
+## Installation
+
+> First, clone the project
+
+```bash
+git clone https://github.com/mahdihagollahi/TodoReducer.git
+```
+
+> to run TodoReducer with npm
+
+```bash
+cd TodoReducer
+  npm install
+  npm run dev
+```
+
+## Screenshots
+
+![App Screenshot](https://github.com/mahdihagollahi/TodoWithNext/blob/main/src/app/assets/Img/Screen%20Light.png)
+
+![Commit Badge](https://github.com/mahdihagollahi/TodoWithNext/blob/main/src/app/assets/Img/Screen%20Dark.png)
+
+![Commit Badge](https://github.com/mahdihagollahi/TodoWithNext/blob/main/src/app/assets/Img/Screen%20Do.png)
+
+## Support
+
+> For support, email haghollahimahdi@gmail.com or join our Slack channel.
+
+## Authors
+
+- [mahdihaghollahi](https://github.com/mahdihagollahi)
